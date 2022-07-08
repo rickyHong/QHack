@@ -1,6 +1,6 @@
 ![image](img/qhack-banner.png)
 
-Welcome to [QHack](https://qhack.ai), the one-of-a-kind quantum computing hackathon! 
+Welcome to [QHack](https://qhack.ai), the one-of-a-kind quantum computing hackathon!, example-02
 
 QHack has three main pillars:
 
